@@ -1,1 +1,4 @@
-get the user data
+get the user data...
+
+// git push origin main , dont need -u its only for the first time
+  
