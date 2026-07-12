@@ -4,3 +4,5 @@ get the user data...
 
 
 processing user data
+
+creating a new avatar for the user
